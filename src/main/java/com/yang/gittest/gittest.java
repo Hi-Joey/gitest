@@ -5,5 +5,6 @@ public class gittest {
         System.out.println("test commit!");
         System.out.println("test commit!");
         System.out.println("here is a test commit2!");
+        System.out.println("here is a hot_fix test commit!");
     }
 }
